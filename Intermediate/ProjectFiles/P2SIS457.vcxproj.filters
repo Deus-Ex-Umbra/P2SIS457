@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\P2SIS457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ED75560B-4692-4672-AC8B-45CC879081BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P2SIS457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\P2SIS457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DEE1CFA1-FCEA-4DF1-A8A7-DE776C8C395D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\P2SIS457">
+      <UniqueIdentifier>{F64F17AE-5398-420A-B3C2-DEEAAB6C2EE8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P2SIS457\CajaContenedora.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\CajaContenedora.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\P2SIS457\P2SIS457.Build.cs">
+      <Filter>Source\P2SIS457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\P2SIS457\P2SIS457.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\P2SIS457.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P2SIS457\P2SIS457GameModeBase.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\P2SIS457GameModeBase.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P2SIS457\Pez.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\Pez.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P2SIS457\PezAzul.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\PezAzul.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P2SIS457\PezRojo.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\PezRojo.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P2SIS457\PezVerde.cpp">
+      <Filter>Source\P2SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P2SIS457\PezVerde.h">
+      <Filter>Source\P2SIS457</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

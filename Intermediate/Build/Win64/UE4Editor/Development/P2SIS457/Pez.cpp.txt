@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Desktop\P2SIS457\Intermediate\Build\Win64\UE4Editor\Development\P2SIS457\Definitions.P2SIS457.h
+C:\Users\USUARIO\Desktop\P2SIS457\Source\P2SIS457\Pez.h
+C:\Users\USUARIO\Desktop\P2SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P2SIS457\Pez.generated.h
